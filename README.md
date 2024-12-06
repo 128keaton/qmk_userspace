@@ -23,3 +23,4 @@ Idk what the title should be but here are the main differences:
 * L1:F is Mouse Scroll Down
 
 
+![image](https://github.com/user-attachments/assets/049adf9c-65a0-494e-a337-9c72889d5bef)
