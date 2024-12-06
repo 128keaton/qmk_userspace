@@ -10,7 +10,6 @@
   },
   "features": {
     "bootmagic": true,
-    "mousekey": true,
     "extrakey": true
   },
   "qmk": {

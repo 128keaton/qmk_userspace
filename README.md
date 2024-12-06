@@ -23,5 +23,6 @@ Idk what the title should be but here are the main differences:
 | 1     | E                | Mouse 2            |
 | 1     | R                | Scroll Up          |
 | 1     | F                | Scroll Down        |
+| 1     | Esc              | Ctrl+C             |
 
-![image](https://github.com/user-attachments/assets/049adf9c-65a0-494e-a337-9c72889d5bef)
+

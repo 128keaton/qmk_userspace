@@ -1,6 +1,6 @@
 CUSTOM_MATRIX = yes
 
-SRC += matrix.c adb.c led.c
+SRC += 128keaton.c matrix.c adb.c led.c
 
 # OPT_DEFS += -DADB_MOUSE_ENABLE -DMOUSE_ENABLE
 SPACE_CADET_ENABLE = no
@@ -9,3 +9,4 @@ DEFAULT_FOLDER = converter/adb_usb/rev1
 MOUSEKEY_ENABLE = yes
 CAPS_WORD_ENABLE = yes
 KEY_LOCK_ENABLE = yes
+SEND_STRING_ENABLE = yes
