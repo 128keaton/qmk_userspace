@@ -1,0 +1,9 @@
+CUSTOM_MATRIX = yes
+
+SRC += matrix.c adb.c led.c
+
+# OPT_DEFS += -DADB_MOUSE_ENABLE -DMOUSE_ENABLE
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no
+DEFAULT_FOLDER = converter/adb_usb/rev3
+MOUSEKEY_ENABLE = yes
