@@ -14,6 +14,7 @@ Idk what the title should be but here are the main differences:
 | 0     | F13/Print Screen | Toggle for Layer 1 |
 | 0     | F14/Scroll Lock  | Volume Down        |
 | 0     | F15/Pause        | Volume Up          |
+| 1     | F14/Scroll Lock  | Toggle Key Lock    |
 | 1     | W                | Mouse Up           |
 | 1     | A                | Mouse Left         |
 | 1     | S                | Mouse Down         |
